@@ -10,6 +10,6 @@ import '../app.css'
 		<p>
 			Developed by <a href="https://wa.link/l9lp65" class="text-blue-400">Mohamed D. Nour</a>
 		</p>
-		<p>Tisqaad © 2024. All rights reserved.</p>
+		<p>Tisqaad © 2024 All rights reserved.</p>
 	</footer>
 </div>
